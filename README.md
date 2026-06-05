@@ -41,4 +41,4 @@ Then show your index finger to the webcam — the cursor will follow! 🖐️
 
 ## 📸 Demo
 
-![Demo](demo.png)
+![Demo](demo.png.png)
